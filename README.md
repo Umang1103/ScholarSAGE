@@ -10,6 +10,10 @@
 - To develop a sophisticated chatbot, by fine-tuning pre-trained Large Language Models (LLM) on the extensive research papers authored by a specific researcher. 
 - Improve on performance metrics in terms of cosine similarity.
 
+## Workflow
+
+<img src="https://github.com/Umang1103/ScholarSAGE/assets/76205318/115b8ce9-59c7-47ce-8268-6b4b8567a15c" width=750 height=350>
+
 ## Getting started
 - Clone the repository. Create a virtual env using the command `python -m venv <path_to_new_virtual_env>`.
 - Install the requirements using the command `pip install -r requirements.txt`.
